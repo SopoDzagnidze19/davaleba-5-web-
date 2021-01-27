@@ -16,7 +16,7 @@ font-color: #DC0B14;}
     flex-wrap:wrap;
 }
 
-.justify-content-between {
+.justify-flex content-between {
     justify-content: space-between;
     align-items: center;
 }
