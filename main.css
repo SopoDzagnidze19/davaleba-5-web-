@@ -6,6 +6,7 @@ header,div{background-color: #eaeaea}
 .title {
 	font-size: 30px;
 	text-align: center;
+	color:#cf000f;
 }
 p {font-size: 24px;
 font-color: #DC0B14;}
@@ -19,3 +20,6 @@ font-color: #DC0B14;}
     justify-content: space-between;
     align-items: center;
 }
+#logo-img {margin: 18px;
+    margin-bottom: 40px;}
+h1{margin-left:10px;}
